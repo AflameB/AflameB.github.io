@@ -3,7 +3,7 @@ layout: single
 title: "EPL Predictor: Machine Learning in Sports Analytics"
 excerpt: "Developing a predictive model to forecast English Premier League match outcomes using historical data from 2019-2023."
 header:
-  teaser: "https://github.com/AflameB/Capstone/blob/main/visualizations/win%25.png"
+  teaser: "/assets/images/win%_top6.png"
 sidebar:
   - title: "Role"
     text: "Lead Data Scientist (Brainstation Capstone)"
