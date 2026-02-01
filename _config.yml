@@ -1,0 +1,30 @@
+# Site Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dirt", "sunrise"
+
+# Site Information
+title: "Your Name"
+name: "Your Name"
+description: "Data Analyst | Financial Insights & Data Storytelling"
+url: "https://username.github.io"
+baseurl: ""
+
+# Author Profile (This fills the left sidebar)
+author:
+  name: "Your Name"
+  bio: "Senior Income Analyst | SQL & Python Enthusiast"
+  location: "Toronto, ON"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/username"
+
+# Performance/Jekyll Settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+include: ["_pages"]
